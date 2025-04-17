@@ -1,0 +1,10 @@
+express
+cors
+twilio
+react
+react-dom
+react-scripts
+react-router-dom
+twilio-video
+handtrackjs
+@twilio/video
